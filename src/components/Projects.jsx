@@ -18,7 +18,7 @@ function Projects() {
   return (
     <div className="d-flex justify-content-center flex-column">
       <h3 className="mt-5 text-white  text-center">Portfolio</h3>
-      <h5 className="text-white mb-5 fw-light text-center">See some of the recent works..</h5>
+      <h5 className="text-white mb-5 fw-light text-center">I would like to introduce some of my recent works...</h5>
 
 
       <div className="mb-5">

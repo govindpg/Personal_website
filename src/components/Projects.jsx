@@ -17,7 +17,9 @@ function Projects() {
   console.log(data);
   return (
     <div className="d-flex justify-content-center flex-column">
-      <h3 className="mt-5 text-white mb-5 text-center">My Projects</h3>
+      <h3 className="mt-5 text-white  text-center">Portfolio</h3>
+      <h5 className="text-white mb-5 fw-light text-center">See some of the recent works..</h5>
+
 
       <div className="mb-5">
         <Tabs

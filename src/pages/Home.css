@@ -1,0 +1,24 @@
+*{
+       
+       font-family: 'Poppins';
+       /* outline: red 2px solid; */
+}
+
+#homesection{
+     background-color: #252B48;  
+}
+
+#about{
+      
+       background-color: #262A56;
+}
+
+#portfolio{
+       background-color: #252B48;  
+
+}
+
+#contact{
+       background-color: #262A56;
+
+}

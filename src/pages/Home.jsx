@@ -32,14 +32,14 @@ function Home() {
                     src={bb}
                     alt=""
                     height={"100%"}
-                    width={"300px"}
+                    width={"80%"}
                   />
                 
               </Col>
               <Col lg={6}>
-                <div>
+                <div className="fs-4">
                   <h2 className="text-white">About Me</h2>
-                  <p className="text-white fw-light">I am a frontend developer and UI/UX Designer dedicated to translating ideas into visually stunning and user-friendly websites. Proficient in creating responsive and pixel-perfect designs, I bring a balance of aesthetics and functionality to every project</p>
+                  <p className="text-white opacity-50 fw-light">I am a frontend developer and UI/UX Designer dedicated to translating ideas into visually stunning and user-friendly websites.<br></br> Proficient in creating responsive and pixel-perfect designs, I bring a balance of aesthetics and functionality to every project.</p>
                   <Tab/>
                 </div>
               </Col>

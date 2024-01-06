@@ -33,11 +33,11 @@ function Projects() {
                   <div className="d-flex justify-content-center">
                     <Card
                       className="cr"
-                      style={{ width: "18rem", height: "200px" }}
+                      style={{ width: "23rem", height: "300px" }}
                     >
                       <Card.Img
                         className="object-fit-cover"
-                        height={"200px"}
+                        height={"300px"}
                         variant="top"
                         src={item.imgsrc}
                       />
@@ -84,24 +84,24 @@ function Projects() {
               ))}{" "}
             </Row>
           </Tab>
-          <Tab eventKey="tab-2" title="UI/UX">
+          <Tab className="fs-3" eventKey="tab-2" title="UI/UX">
               <h5 className="text-center mb-4 mt-4">Here are some of my deisgns</h5>
          <Row className="mb-2">
               <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>
-              <img className='object-fit-contain' height={'250px'} width={'80%'} src={one} alt="" />
+              <img className='object-fit-contain' height={'250px'} width={'90%'} src={one} alt="" />
               </Col>
-              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12} >               <img className='object-fit-cover' height={'250px'}  width={'80%'} src={two} alt="" />
+              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12} >               <img className='object-fit-cover' height={'250px'}  width={'90%'} src={two} alt="" />
 </Col>
-              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>              <img className='object-fit-cover' height={'250px'} width={'80%'} src={four} alt="" />
+              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>              <img className='object-fit-cover' height={'250px'} width={'90%'} src={four} alt="" />
 </Col>
          </Row>
          <Row className="mb-2">
               <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>
-              <img className='object-fit-contain' height={'250px'} width={'80%'} src={five} alt="" />
+              <img className='object-fit-contain' height={'250px'} width={'90%'} src={five} alt="" />
               </Col>
-              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12} >               <img className='object-fit-cover' height={'250px'}  width={'80%'} src={six} alt="" />
+              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12} >               <img className='object-fit-cover' height={'250px'}  width={'90%'} src={six} alt="" />
 </Col>
-              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>              <img className='object-fit-cover' height={'250px'} width={'80%'} src={four} alt="" />
+              <Col className="mb-2 d-flex justify-content-center" lg={4} sm={12} md={12}>              <img className='object-fit-cover' height={'250px'} width={'90%'} src={three} alt="" />
 </Col>
          </Row>
          <div className="w-100 d-flex justify-content-center">

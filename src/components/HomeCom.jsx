@@ -16,7 +16,7 @@ function HomeCom() {
   return (
     <div>
 
-<Row style={{minHeight:'500px'}} className="justify-content-center  align-items-center   ">
+<Row style={{minHeight:'700px'}} className="justify-content-center  align-items-center   ">
               <Col  sm={12} md={12} lg={6}>
                 <div
                   className="w-100 flex-column d-flex justify-content-center"
@@ -24,7 +24,7 @@ function HomeCom() {
                 >
                   <h5 className="text-grey ">Hi There</h5>
                   <h2 className="text-white fw-bold fs-1">I'm Govind</h2>
-                  <h3 className="text-white">
+                  <h3 className="text-white fs-1">
                     I am a{" "}
                     <span
                       style={{ fontWeight: "bold", fontFamily: "Bungee Spice" }}
@@ -58,7 +58,7 @@ function HomeCom() {
                   <img
                     style={{ marginTop: "120px", maxWidth: "100%" }}
                     src={aa}
-                    width={"85%"}
+                    width={"100%"}
                     alt=""
                   />
                 </div>

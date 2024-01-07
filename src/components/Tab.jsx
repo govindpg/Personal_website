@@ -18,7 +18,7 @@ function Tab() {
 
 </Tab>
 <Tab eventKey='tab-3' title="Experience">
-<p style={{fontSize:'25PX'}}  className='mt-2  text-white'> Mearn satck developer Intern <br /><span style={{fontSize:'17PX'}} className='fw-light'>Luminar technolab kakkanad (6 months) </span> </p>
+<p style={{fontSize:'25PX'}}  className='mt-2  text-white'> Mearn stack developer Intern <br /><span style={{fontSize:'17PX'}} className='fw-light'>Luminar technolab kakkanad (6 months) </span> </p>
 
 </Tab>
 

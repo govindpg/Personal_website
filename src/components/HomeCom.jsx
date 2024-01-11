@@ -46,7 +46,7 @@ function HomeCom() {
                         backgroundColor: "#7077A1",
                       
                       }}
-                      href="https://drive.google.com/file/d/1ifn8Gwaw7jPjWuj0JgfJBihupJyPq6yc/view?usp=sharing" 
+                      href="https://drive.google.com/file/d/1qFelWWqj9B-tfTMvUwnLLHpXT3EsQ0Ef/view?usp=sharing" 
                     >
                       Get resume
                     </a>
